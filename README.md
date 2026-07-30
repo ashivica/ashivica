@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hey there! 🙋‍♀️ I'm Ash
 
+🎓 UST - Computer Science
+
+🔗CONNECT WITH ME
+- LinkedIn:
+- GitHub: 
 <!--
 **ashivica/ashivica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
